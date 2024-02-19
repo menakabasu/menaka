@@ -1,7 +1,0 @@
-https://public.tableau.com/app/profile/menaka.narayanasamy/viz/weathofnation_completed_GDPchart/GDPChart?publish=yes&classId=d79813a8-1fbb-4caa-8704-acae2504038f&assignmentId=661cb3d5-b0db-4d1b-8b46-9ec164460fe9&submissionId=0c391fd8-253b-6673-8132-5b826cdbc65c
-
-https://public.tableau.com/app/profile/menaka.narayanasamy/viz/weathofnation_completed_lifeexpectancychart/LifeExpectancychart?publish=yes&classId=d79813a8-1fbb-4caa-8704-acae2504038f&assignmentId=661cb3d5-b0db-4d1b-8b46-9ec164460fe9&submissionId=0c391fd8-253b-6673-8132-5b826cdbc65c
-
-https://public.tableau.com/app/profile/menaka.narayanasamy/viz/weathofnation_completed_smartphoneUsersChart/SmartphoneUsersChart?publish=yes&classId=d79813a8-1fbb-4caa-8704-acae2504038f&assignmentId=661cb3d5-b0db-4d1b-8b46-9ec164460fe9&submissionId=0c391fd8-253b-6673-8132-5b826cdbc65c
-
-https://public.tableau.com/app/profile/menaka.narayanasamy/viz/weathofnation_completed_lifeexpectancyVssmartphoneuserschart/Lifeexpectancysmartphoneuserschart?publish=yes&classId=d79813a8-1fbb-4caa-8704-acae2504038f&assignmentId=661cb3d5-b0db-4d1b-8b46-9ec164460fe9&submissionId=0c391fd8-253b-6673-8132-5b826cdbc65c
