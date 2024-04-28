@@ -1,0 +1,1 @@
+This is to create a visualization report based on sales data. It will provide insights about product categories by sales based on the year and location-wise sales. Additionally, it will generate a report on monthly sales, comparing previous year sales to current year sales up to date. Finally, a line chart will illustrate quantity-wise monthly sales.
